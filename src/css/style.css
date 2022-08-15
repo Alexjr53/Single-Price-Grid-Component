@@ -1,0 +1,113 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    min-height: 100vh;
+    font-family: 'Karla', sans-serif;
+    background-color: var(--neutral-soft-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    font-weight: 400;
+    display: grid;
+    grid-template-areas: "header header"
+                         "plan about";
+    grid-template-columns: 318px 318px;
+    grid-template-rows: 215px 260px;
+}
+
+.container-info{
+    grid-area: header;
+    background-color: white;
+    padding: 3.7rem;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.container-info h1{
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: var(--primary-medium-color);
+}
+
+.container-info h2{
+    font-size: 1.7rem;
+    margin-top: 2.5rem;
+    color: var(--secundary-soft-color);
+}
+
+.container-info p{
+    font-size: 1.6rem;
+    margin-top: 1.2rem;
+    line-height: 2.5rem;
+    color: var(--neutral-medium-color);
+}
+
+.container-plan{
+    background-color: var(--primary-medium-color);
+    grid-area: plan;
+    color: white;
+    border-radius: 0 0 0 1rem;
+    padding: 3.7rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-plan h2{
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+
+.container-plan .plan-value{
+    display: flex;
+    margin-top: 1.6rem;
+    align-items: center;
+}
+
+.container-plan .plan-value .value{
+    font-size: 3.5rem;
+}
+
+.container-plan .plan-value .monthly-payment{
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin-left: 1rem;
+    color: var(--neutral-soft-color);
+}
+
+.container-plan p{
+    font-size: 1.6rem;
+}
+
+.container-plan .btn{
+    background-color: var(--secundary-soft-color);
+    font-size: 1.6rem;
+    text-align: center;
+    padding: 1.6rem;
+    margin-top: 3rem;
+    border-radius: 1rem;
+    
+}
+
+.container-about{
+    background-color: var(--primary-soft-color);
+    grid-area: about;
+    padding: 3.7rem;
+    border-radius: 0 0 1rem 0;
+    color: white;
+}
+
+.container-about h2{
+    font-size: 1.8rem;
+}
+
+.container-about ul{
+    font-size: 1.4rem;
+    margin-top: 2rem;
+    padding-right: 4rem;
+    line-height: 2rem;
+    
+}
