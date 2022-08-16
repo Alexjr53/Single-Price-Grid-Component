@@ -35,8 +35,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução URL: [Order summary card - Frontend mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-aqlgvKr8Fg)
-- URL da página: [Order summary card](https://alexjr53.github.io/Single-Price-Grid-Component/) 
+- Solução URL: [Single price grid component - Frontend mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-aqlgvKr8Fg)
+- URL da página: [Single price grid component](https://alexjr53.github.io/Single-Price-Grid-Component/) 
 
 ## Meu processo
 
