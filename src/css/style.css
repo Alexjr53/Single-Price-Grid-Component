@@ -27,19 +27,19 @@ main{
     border-radius: 1rem 1rem 0 0;
 }
 
-.container-info h1{
+.container-info .title{
     font-size: 2.4rem;
     font-weight: 700;
     color: var(--primary-medium-color);
 }
 
-.container-info h2{
+.container-info .subtitle{
     font-size: 1.7rem;
     margin-top: 2.5rem;
     color: var(--secundary-soft-color);
 }
 
-.container-info p{
+.container-info .info{
     font-size: 1.6rem;
     margin-top: 1.2rem;
     line-height: 2.5rem;
@@ -56,7 +56,7 @@ main{
     flex-direction: column;
 }
 
-.container-plan h2{
+.container-plan .plan-title{
     font-size: 1.8rem;
     font-weight: 700;
 }
@@ -78,7 +78,7 @@ main{
     color: var(--neutral-soft-color);
 }
 
-.container-plan p{
+.container-plan .plan-description{
     font-size: 1.6rem;
 }
 
@@ -100,11 +100,11 @@ main{
     color: white;
 }
 
-.container-about h2{
+.container-about .about{
     font-size: 1.8rem;
 }
 
-.container-about ul{
+.container-about .description-list{
     font-size: 1.4rem;
     margin-top: 2rem;
     padding-right: 4rem;

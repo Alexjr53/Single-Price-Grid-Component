@@ -11,15 +11,15 @@
         padding: 2.6rem 2.3rem;
     }
 
-    .container-info h1{
+    .container-info .title{
         font-size: 2rem;
     }
 
-    .container-info h2{
+    .container-info .subtitle{
         font-size: 1.5rem;
     }
 
-    .container-info p{
+    .container-info .info{
         font-size: 1.4rem;
         margin-top: 1.9rem;
     }
@@ -33,7 +33,7 @@
         padding: 2.7rem;
     }
 
-    .container-about ul{
+    .container-about .description-list{
         margin-top: 1.6rem;
     }
 }
