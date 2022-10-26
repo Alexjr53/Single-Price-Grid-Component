@@ -1,10 +1,7 @@
-html{
-    font-size: 62.5%;
-}
-
 body{
     min-height: 100vh;
     font-family: 'Karla', sans-serif;
+    font-weight: 400;
     background-color: var(--neutral-soft-color);
     display: flex;
     align-items: center;
@@ -12,12 +9,11 @@ body{
 }
 
 main{
-    font-weight: 400;
     display: grid;
     grid-template-areas: "header header"
                          "plan about";
-    grid-template-columns: 318px 318px;
-    grid-template-rows: 215px 260px;
+    grid-template-columns: repeat(2, 31.8rem);
+    grid-template-rows: 21.5rem 26rem;
 }
 
 .container-info{
@@ -67,13 +63,12 @@ main{
     align-items: center;
 }
 
-.container-plan .plan-value .value{
+.container-plan .plan-value .price{
     font-size: 3.5rem;
 }
 
 .container-plan .plan-value .monthly-payment{
     font-size: 1.6rem;
-    font-weight: 400;
     margin-left: 1rem;
     color: var(--neutral-soft-color);
 }
@@ -89,7 +84,6 @@ main{
     padding: 1.6rem;
     margin-top: 3rem;
     border-radius: 1rem;
-    
 }
 
 .container-about{
@@ -109,5 +103,4 @@ main{
     margin-top: 2rem;
     padding-right: 4rem;
     line-height: 2rem;
-    
 }

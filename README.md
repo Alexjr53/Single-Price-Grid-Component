@@ -1,6 +1,6 @@
-# Frontend Mentor - Solução do Single price grid component
+# Desafio Frontend Mentor - Solução do Single price grid component
 
-Esta é uma solução para o [Desafio Single price grid component no Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [Desafio Single price grid component no Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
 
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Single-Price-Grid-Component/blob/main/LICENSE)
 
@@ -22,20 +22,20 @@ Esta é uma solução para o [Desafio Single price grid component no Frontend Me
 
 Os usuários devem ser capazes de:
 
-- Visualize o layout ideal para a página, dependendo do tamanho da tela do dispositivo
-- Veja os estados de foco para todos os elementos interativos na página
+- criar o layout ideal para a página, dependendo do tamanho da tela do dispositivo
+- adicionar o efeito de hover para todos os elementos interativos na página
 
 ### Screenshot
 
 #### Desktop
-![produto](src/images/screenshot-desktop.png)
+![produto](src/design/screenshot-desktop.png)
 
 #### Mobile
-![produto](src/images/screenshot-mobile.png)
+![produto](src/design/screenshot-mobile.png)
 
 ### Links
 
-- Solução URL: [Single price grid component - Frontend mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-aqlgvKr8Fg)
+- Solução do desafio: [Single price grid component - Frontend mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-aqlgvKr8Fg)
 - URL da página: [Single price grid component](https://alexjr53.github.io/Single-Price-Grid-Component/) 
 
 ## Meu processo

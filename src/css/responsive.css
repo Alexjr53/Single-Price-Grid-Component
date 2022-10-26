@@ -3,8 +3,8 @@
         grid-template-areas: "header"
                              "plan"
                              "about";
-        grid-template-columns: 315px;
-        grid-template-rows: 265px repeat(2,228px);
+        grid-template-columns: 31.5rem;
+        grid-template-rows: 26.5rem repeat(2, 22.8rem);
     }
 
     .container-info{
