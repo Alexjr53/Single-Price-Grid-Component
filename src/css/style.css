@@ -32,7 +32,7 @@ main{
 .container-info .subtitle{
     font-size: 1.7rem;
     margin-top: 2.5rem;
-    color: var(--secundary-soft-color);
+    color: var(--secondary-soft-color);
 }
 
 .container-info .info{
@@ -78,7 +78,7 @@ main{
 }
 
 .container-plan .btn{
-    background-color: var(--secundary-soft-color);
+    background-color: var(--secondary-soft-color);
     font-size: 1.6rem;
     text-align: center;
     padding: 1.6rem;

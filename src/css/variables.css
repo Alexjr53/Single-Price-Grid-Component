@@ -1,7 +1,7 @@
 :root{
     --primary-medium-color:hsl(179, 62%, 43%);
     --primary-soft-color:hsla(179, 61%, 51%, 0.884);
-    --secundary-soft-color:hsl(71, 73%, 54%);
+    --secondary-soft-color:hsl(71, 73%, 54%);
     --neutral-soft-color:hsl(204, 43%, 93%);
     --neutral-medium-color:hsl(218, 22%, 67%);
 }
